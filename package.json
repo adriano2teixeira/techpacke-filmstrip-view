@@ -1,0 +1,11 @@
+{
+  "name": "filmstrip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start-frontend": "cd frontend && yarn start",
+    "start-api": "cd api && node src/server.js",
+    "run-installation": "cd api && npm install && cd .. && cd frontend && npm install"
+  }
+}
