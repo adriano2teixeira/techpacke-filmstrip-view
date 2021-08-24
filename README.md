@@ -4,6 +4,8 @@
 NodeJS -> v10 or up
 
 ## Instalation
+
+### Execuation
  1 - Download NodeJS from its official website.
  2 - Clone this repository
  3 - Into the root directory run `npm run-installation` to install the dependecies in both (server and frontend)
