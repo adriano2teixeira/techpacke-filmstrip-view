@@ -3,15 +3,20 @@
 ## Dependecies
 NodeJS -> v10 or up
 
-## Instalation
-
-### Execuation
- 1 - Download NodeJS from its official website.
- 2 - Clone this repository
- 3 - Into the root directory run `npm run-installation` to install the dependecies in both (server and frontend)
- 4 - Run `npm start-frontend` to start the frontend aplication
- 5 - Run `npm start-api` to start the web server 
+## Executation:
+* Clone this repository
+### Backend
+ 1 - Go to the "api" folder and run `npm install` to install the dependecies
+ ```
+ 2 - And then run `npm start` to start the server
+ ```
+#### Frontend
+ 1 - Go to the frontend folder and run `npm install` to install the dependecies
+ ```
+ 2 - And Then run `npm start` to start the dev server
+ ```
 
  * You can also use yarn if it is installed : `yarn ....`
+ ```
 
 
