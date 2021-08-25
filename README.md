@@ -17,6 +17,5 @@ NodeJS -> v10 or up
  ```
 
  * You can also use yarn if it is installed : `yarn ....`
- ```
 
 
